@@ -16,5 +16,6 @@ Ter node instalado.
 
 - git clone https://github.com/SantosGiovanni/weather-exercicio.git weather-exercicio
 - cd weather-exercicio
+- npm install
 - ng serve
 - Navegar em http://localhost:4200
